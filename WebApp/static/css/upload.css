@@ -1,0 +1,109 @@
+body{
+	margin: 0px;
+}
+
+.navbar{
+	background-color: #ddd;
+	top: 0;
+	height: 100px;
+	position: fixed;
+	width: 100%;
+	padding: 15px;
+	box-shadow: 0px 0px 10px 10px gray;
+}
+
+.pages{
+	float: right;
+	margin-right: 30px;
+	margin-top: 25px;
+}
+
+.pages a{
+	text-decoration: none;
+	padding: 10px;
+	font-family: arial;
+	font-weight: bold;
+	color: blue;
+}
+
+.R1{
+	margin-top: 140px;
+	background-color: white;
+	height: 300px;
+	padding: 100px;
+	font-family: verdana;
+	font-size: 15px;
+	text-align: center;
+}
+
+.R2{
+	background-color: tomato;
+	height: 300px;
+	padding: 100px;
+	font-family: verdana;
+	font-size: 15px;
+	text-align: center;
+}
+
+.img-table table,tr,td{
+	margin: 0 auto;
+	padding: 40px;
+	text-align: center;
+	font-family: verdana;
+	font-size: 13px;
+}
+
+.img-table td{
+	padding: 70px;
+}
+
+.img-table h2{
+	margin-left: 70px;
+}
+
+.the-team{
+	text-align: center;
+}
+
+.the-team img{
+	padding: 5px;
+	width: 200px;
+	height: 250px
+}
+
+footer{
+	background-color: #ddd;
+	height: 180px;
+	margin-top: 80px;
+}
+
+footer table{
+	width: 100%;
+	margin-left: 0;
+}
+
+footer table, td, tr{
+	text-align: left;
+	padding: 5px;
+}
+
+footer p{
+	text-align: right;
+	font-family: arial;
+	font-size: small;
+}
+
+footer a{
+	text-decoration: none;
+	font-size: small;
+}
+
+.about{
+	margin-top: 140px;
+	margin-left: 7px;
+}
+
+.portfolio{
+	margin-top: 140px;
+	margin-left: 7px;
+}
